@@ -1,22 +1,22 @@
-# Prime - AI & ML Learning Repository
+# Prime - AI & ML Learning Repository 
 
-This repository contains my learning journey in:
+This repository contains my learning journey in :
 
 - Python
-- NumPy
+- numPy
 - Pandas
 - Matplotlib
 - Seaborn
-- Machine Learning
-- Deep Learning
-- Streamlit Projects
+- machine Learning
+- deep Learning
+- streamlit Projects
 
 ## Topics Covered
 
 ### Deep Learning
 - ANN
 - CNN
-- CIFAR10
+- RNN
 - Image Classification
 
 ### Python Data Science
